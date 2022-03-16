@@ -1,0 +1,14 @@
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\bin\Debug\netcoreapp3.1\weapon.exe
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\bin\Debug\netcoreapp3.1\weapon.deps.json
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\bin\Debug\netcoreapp3.1\weapon.runtimeconfig.json
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\bin\Debug\netcoreapp3.1\weapon.runtimeconfig.dev.json
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\bin\Debug\netcoreapp3.1\weapon.dll
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\bin\Debug\netcoreapp3.1\weapon.pdb
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.csproj.AssemblyReference.cache
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.AssemblyInfoInputs.cache
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.AssemblyInfo.cs
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.csproj.CoreCompileInputs.cache
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.dll
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.pdb
+C:\Users\AysuMemmedova\source\repos\weapon\weapon\obj\Debug\netcoreapp3.1\weapon.genruntimeconfig.cache
